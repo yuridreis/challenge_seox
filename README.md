@@ -1,6 +1,7 @@
 # Teste Técnico - Seox
 
 1- projeto_lumen: Um crud desenvolvido com lumen que abre 3 endpoints para cadastro de Imoveis, clientes e oportunidades.
+
 2- desafio_seox: Um plugin para wordpress que sincroniza com o back-end lumen os imoveis sem oportunidades. 
 
 
