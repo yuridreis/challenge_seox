@@ -4,7 +4,6 @@
 
 2- desafio_seox: Um plugin para wordpress que sincroniza com o back-end lumen os imoveis sem oportunidades. 
 
-
 ## projeto_lumen
 
 1- Instalar as dependencias
